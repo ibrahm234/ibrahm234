@@ -1,10 +1,6 @@
 #!/bin/bash
 echo -e "\033[0;35m"
-echo "    ___  ";
-echo "   / _ \";
-echo "    | | |;
-echo ___) | |_";
-echo "   \___/ ";
+echo "  ibrahimok62 ";
 echo -e "\e[0m"
 
 
