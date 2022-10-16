@@ -15,7 +15,7 @@ Explorer:
 >- https://ollo.explorers.guru/
 ## Siapkan fullnode ollo Anda
 ```
-wget -O ollo.sh https://raw.githubusercontent.com/xsons/testnet_node/main/ollo/ollo.sh && chmod +x ollo.sh && ./ollo.sh
+wget -O ollo.sh https://raw.githubusercontent.com/ibrahm234/ibrahm234/blob/main/ollo.sh && chmod +x ollo.sh && ./ollo.sh
 ```
 ## Pasca instalasi
 Ketika instalasi selesai, silakan muat variabel ke dalam sistem
